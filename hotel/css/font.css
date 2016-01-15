@@ -1,0 +1,11 @@
+@font-face{
+	font-family:'avantgrade_bk_btbook';
+	src:url('../fonts/avantgrade_bk_btbook/avgardn.ttf')format('truetype'),
+	    url('../fonts/avantgrade_bk_btbook/avgardn.eot'),
+	    url('../fonts/avantgrade_bk_btbook/avgardn.eot#iefix')format('embedded-opentype'),
+	    url('../fonts/avantgrade_bk_btbook/avgardn.woff2')format('woff2'),
+	    url('../fonts/avantgrade_bk_btbook/avgardn.woff')format('woff'),
+	    url('../fonts/avantgrade_bk_btbook/avgardn.svg#avantgrade_bk_btbook')format('svg');
+	    font-weight: normal;
+	    font-style: normal;
+}
